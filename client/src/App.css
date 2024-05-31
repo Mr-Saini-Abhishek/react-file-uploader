@@ -1,0 +1,13 @@
+#customFile{
+    cursor: pointer;
+    margin-top: 0rem;
+}
+#navbarSupportedContent ul{
+    width: 35%;
+    margin: auto;
+
+}
+#navbarSupportedContent ul li {
+padding-left: 1rem;
+padding-right: 1rem;
+}
